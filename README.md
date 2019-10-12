@@ -1,7 +1,7 @@
 # test1
 
 Prerana Deshpande 
-I'm persuing 2nd year Engineering 
+I'm persuing 3rd year Engineering 
 In Computer Science
 
 **Hello world**
